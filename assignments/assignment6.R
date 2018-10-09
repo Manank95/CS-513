@@ -74,4 +74,4 @@ error<-sum(wrong)/length(wrong)
 error
 
 # Answer: Top 3 features according to MeanDecreaseAccuracy graph are: F6, F1 and F2.
-
+# just for your reference
