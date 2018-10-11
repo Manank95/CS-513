@@ -40,3 +40,5 @@ table(Actual=resutls$Actual_Malignant,Prediction=resutls$Prediction)
 wrong<-(round(net_dsn1_results$net.result[,1])!=test$benign )
 error<-sum(wrong)/length(wrong)
 error
+
+# Only for your reference, not for direct copy
