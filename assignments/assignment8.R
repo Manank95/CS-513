@@ -24,3 +24,5 @@ k_means<-kmeans(dsn1[,2:10], centers=2)
 k_means$size
 plot(k_means$cluster)
 str(k_means)
+
+#just for your refernce, please don't copy
