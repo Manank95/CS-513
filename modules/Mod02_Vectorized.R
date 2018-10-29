@@ -129,3 +129,5 @@ ls()
 objects<-ls()
 ?rm()
 rm(list=ls())
+
+# just for your reference
