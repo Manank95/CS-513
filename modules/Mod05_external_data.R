@@ -6,7 +6,7 @@
 #  Last Name  : Dehnad
 #  Id			    : 12345
 #  Date       :
-#  Comments   :
+#  Comments   : Just for your reference not for direct copy
 
 rm(list=ls())
 ############################################## ###
@@ -18,11 +18,6 @@ rm(list=ls())
 ##       write.csv
 ##       setdiff
 ##       getwd
-##
-##
-##
-##
-##
 ################### ###
 
 ##       read.csv   ####
