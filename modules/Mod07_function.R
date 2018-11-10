@@ -6,7 +6,7 @@
 #  Last Name  : Dehnad
 #  Id			    : 12345
 #  Date       :
-#  Comments   :
+#  Comments   : only for your reference
 
 rm(list=ls())
 install.packages("knn")
