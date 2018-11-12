@@ -6,7 +6,7 @@
 #  Last Name  : Dehnad
 #  Id			    : 12345
 #  Date       : replacing and removing missing values
-#  Comments   :
+#  Comments   : only for reference
 
 rm(list=ls())
 
