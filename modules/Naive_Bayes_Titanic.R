@@ -3,6 +3,7 @@
 #  Purpose          : Apply naive bayes to Titanic_row dataset 
 #                   : see cr8_multi_rows_dsn program.
 #  Creation date    : 
+# only for your reference.
 
 rm(list=ls())
 
